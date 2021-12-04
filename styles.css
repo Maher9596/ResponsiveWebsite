@@ -46,6 +46,7 @@ a {
 a:hover,
 a:focus {
     color: #143774;
+    cursor: pointer;
 }
 
 strong {
@@ -58,6 +59,8 @@ strong {
     color: #1792d2;
     font-size: .75rem;
     margin: 0;
+    text-transform: uppercase;
+    letter-spacing: .8px;
 }
 
 .article-title {
