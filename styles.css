@@ -272,3 +272,14 @@ nav a:focus {
 .widget-image {
     order: -1;
 }
+
+.footer-text{
+    font-size: .7rem;
+    opacity: 0.3;
+}
+
+.footer-modify {
+    font-weight: bold;
+    font-size: 0.9rem;
+    opacity: 0.5;
+}
